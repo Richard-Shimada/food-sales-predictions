@@ -1,19 +1,19 @@
 # Predicting sales of store items using regression models 
-## Processing the data, fitting the models, and evaluating the results 
+## Exploring/processing the data, fitting the models, and evaluating the results 
 
 **Author**: Richard Shimada
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+What factors drive sales? item location? Weight? type of store?
 
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+Dataset is from X, and contains fields.
 
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
+- Remove duplicates, impute, encode, scale.
 - 
 
 ## Results
@@ -32,21 +32,21 @@ Data can include source and high-level description (e.g. # obs)
 
 Describe your final model
 
-Report the most important metrics
+Report on MAE/MSE/RMSE
 
 Refer to the metrics to describe how well the model would solve the business problem
 
 ## Recommendations:
 
-More of your own text here
+Use the regression tree, variance has been corrected and good predictive power.
 
 
 ## Limitations & Next Steps
 
-More of your own text here
+Hyper tune regression model or use different model for better fit.
 
 
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact Richard Shimada at **email**

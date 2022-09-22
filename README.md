@@ -1,7 +1,7 @@
-# Use reg tree
-## Subtitle describing the analysis 
+# Predicting sales of store items using regression models 
+## Processing the data, fitting the models, and evaluating the results 
 
-**Author**: 
+**Author**: Richard Shimada
 
 ### Business problem:
 

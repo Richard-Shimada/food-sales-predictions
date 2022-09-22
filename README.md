@@ -22,7 +22,7 @@ Data can include source and high-level description (e.g. # obs)
 
 
 #### Visual 1 Title
-![sample image](Average MRP by category.png)
+![image](https://user-images.githubusercontent.com/110313483/191793160-29fbd49d-241a-44bd-93c5-90c54b09cc8f.png)
 
 > Sentence about visualization.
 

@@ -8,18 +8,17 @@
 What features of items and the stores they are sold in are most impactful in determining total sales volume? 
 
 ### Data:
-Dataset is from the web, link located [here](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/).
+Dataset can be found online [here](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/).
 
-
-#### Visual 1 Title
 
 ![image](https://user-images.githubusercontent.com/110313483/191888643-2063745e-48d7-4744-a68a-f88e6e2415df.png)
 
 > Sentence about visualization.
 
-#### Visual 2 Title
 
 ![image](https://user-images.githubusercontent.com/110313483/191889066-f91da510-d333-4c48-9078-c969c13c2100.png)
+
+Sentence 2
 
 ## Pre-processing
 To prepare the dataset for modeling, I removed duplicates, imputed unknown values, encoded categorial data, and scaled numerical data.

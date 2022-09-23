@@ -30,13 +30,15 @@ A Linear Regresssion and Regression Tree Model were both fit to the data. The Re
 
 ## Results
 
-Report on MAE/MSE/RMSE/R2
+On the training set, the linear regression model has an R2 score of 0.57 compared to 0.59 for the regression tree model. 
 
-Refer to the metrics to describe how well the model would solve the business problem
+In addition, mean absolute error, mean squared error, and root mean square error are lower for the regression tree model.
+
+
 
 ## Recommendations:
 
-Use the regression tree, variance has been corrected and good predictive power.
+Of the two models I would recommend using the regression tree. After tuning, the variance has improved drastically. Furthermore, the error metrics and R2 score are more favorable for the regression tree.
 
 
 ## Limitations & Next Steps

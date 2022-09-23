@@ -22,11 +22,14 @@ Dataset is from X, and contains fields.
 
 
 #### Visual 1 Title
-![image](https://user-images.githubusercontent.com/110313483/191793160-29fbd49d-241a-44bd-93c5-90c54b09cc8f.png)
+
+![image](https://user-images.githubusercontent.com/110313483/191888643-2063745e-48d7-4744-a68a-f88e6e2415df.png)
 
 > Sentence about visualization.
 
 #### Visual 2 Title
+
+![image](https://user-images.githubusercontent.com/110313483/191793160-29fbd49d-241a-44bd-93c5-90c54b09cc8f.png)
 
 ## Model
 

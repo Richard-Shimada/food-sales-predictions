@@ -30,7 +30,7 @@ A Linear Regresssion and Regression Tree Model were both fit to the data. The Re
 
 ## Results
 
-On the training set, the linear regression model has an R2 score of 0.57 compared to 0.59 for the regression tree model. 
+On the test set, the linear regression model has an R2 score of 0.57 compared to 0.59 for the regression tree model. 
 
 In addition, mean absolute error, mean squared error, and root mean square error are lower for the regression tree model.
 

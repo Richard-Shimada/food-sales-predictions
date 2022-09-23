@@ -29,7 +29,7 @@ Dataset is from X, and contains fields.
 
 #### Visual 2 Title
 
-![image](https://user-images.githubusercontent.com/110313483/191888797-b66f1489-de36-4510-b42c-2f0e7a11e7d1.png)
+![image](https://user-images.githubusercontent.com/110313483/191889066-f91da510-d333-4c48-9078-c969c13c2100.png)
 
 ## Model
 

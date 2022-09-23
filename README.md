@@ -1,25 +1,14 @@
-# Predicting sales of store items using regression models 
+# Predicting sales of various store items using regression models 
 ## Exploring/processing the data, fitting the models, and evaluating the results 
 
 **Author**: Richard Shimada
 
 ### Business problem:
 
-What factors drive sales? item location? Weight? type of store?
-
+What features of items and the stores they are sold in are most impactful in determining total sales volume? 
 
 ### Data:
 Dataset is from X, and contains fields.
-
-
-## Methods
-- Remove duplicates, impute, encode, scale.
-- 
-
-## Results
-
-### Here are examples of how to embed images from your sub-folder
-
 
 #### Visual 1 Title
 
@@ -39,6 +28,13 @@ Report on MAE/MSE/RMSE
 
 Refer to the metrics to describe how well the model would solve the business problem
 
+## Methods
+- Remove duplicates, impute, encode, scale.
+- 
+
+## Results
+
+
 ## Recommendations:
 
 Use the regression tree, variance has been corrected and good predictive power.
@@ -51,5 +47,4 @@ Hyper tune regression model or use different model for better fit.
 
 ### For further information
 
-
-For any additional questions, please contact Richard Shimada at **email**
+For any additional questions, please contact Richard Shimada at r.shimada@gmail.com.

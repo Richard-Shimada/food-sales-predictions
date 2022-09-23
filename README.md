@@ -8,7 +8,7 @@
 What features of items and the stores they are sold in are most impactful in determining total sales volume? 
 
 ### Data:
-Dataset can be found online [here](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/).
+Dataset can be found online [here](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/). Some visual callouts on the data set:
 
 
 ![image](https://user-images.githubusercontent.com/110313483/191888643-2063745e-48d7-4744-a68a-f88e6e2415df.png)
@@ -26,16 +26,13 @@ To prepare the dataset for modeling, I removed duplicates, imputed unknown value
 
 ## Modeling
 
-Describe your final model
+A Linear Regresssion and Regression Tree Model were both fit to the data. The Regression Tree model's max depth was tuned to improve the predictive power of the model.
+
+## Results
 
 Report on MAE/MSE/RMSE/R2
 
 Refer to the metrics to describe how well the model would solve the business problem
-
-
-
-## Results
-
 
 ## Recommendations:
 

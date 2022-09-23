@@ -13,12 +13,12 @@ Dataset can be found online [here](https://datahack.analyticsvidhya.com/contest/
 
 ![image](https://user-images.githubusercontent.com/110313483/191888643-2063745e-48d7-4744-a68a-f88e6e2415df.png)
 
-> Sentence about visualization.
+Supermarkets have the highest total volume, with Type 1 stores having the majority of total sales volume (over $12M).
 
 
 ![image](https://user-images.githubusercontent.com/110313483/191889066-f91da510-d333-4c48-9078-c969c13c2100.png)
 
-Sentence 2
+Within the actual items sold, all item types have a similar MRP in the $130 to $160 range.
 
 ## Pre-processing
 To prepare the dataset for modeling, I removed duplicates, imputed unknown values, encoded categorial data, and scaled numerical data.
@@ -41,7 +41,7 @@ Use the regression tree, variance has been corrected and good predictive power.
 
 ## Limitations & Next Steps
 
-Hyper tune regression model or use different model for better fit.
+To further improve results, instead of a Linear Regression model we could try a Ridge, Lasso, or Elastic Net model. In addition to the regression tree, we could also try implementing other tree models such as bagged trees and random forests.
 
 
 ### For further information
